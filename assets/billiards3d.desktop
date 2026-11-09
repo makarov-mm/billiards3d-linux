@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=3D Billiards
+Name[ru]=Бильярд 3D
+Comment=Eight-ball, nine-ball and Russian pyramid against the computer or a friend
+Comment[ru]=Восьмёрка, девятка и американка против компьютера или друга
+Exec=billiards3d
+Icon=billiards3d
+Terminal=false
+Categories=Game;SportsGame;
+Keywords=billiards;pool;eight-ball;nine-ball;pyramid;
+Keywords[ru]=бильярд;пул;восьмёрка;девятка;пирамида;американка;
+StartupWMClass=billiards3d
